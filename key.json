@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "engaged-patrol-451012-f4",
+  "private_key_id": "48f7afcf7d97de4715494143fe1acd4f40b68bdb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvG4grPhXJnk8V\ntPnKy79k3qeUiHaM5WNMhh5+92rtzTDyFMfh8N7qH41G2CAPnps0IHfRkh+Aii9m\nUe5sMUydk35Ung5zRN2fx2d1UJ49LwOQkSOYlrpTKFAgH7WGf08VHHbrYWE7SfMQ\n7iOYeBOPHwJV4/sT6h/LADDXyiDWoFB6VtFrC721a8fQn2A/TjxrjyUSqmkS9vdr\nk0o10rezeedBDCt5avlZDwPbzkQzTCqtwUgPKYS+nBKbnfcsiTk7ARq7n1UC/4yD\ns2J2RowOuk8fZNpb5X547IIjLQp/HbA2ZQZ1gRpTn86A/2aW8tz+2T3qW938NirN\n5MSk7BM/AgMBAAECggEAGV7XJydtp11FKWij2xq+IPKUO9RcaM7rc4Y9xjjkHeQ2\n4pGENwYxJfbAVLKyTSZhEk0J+daUCImnkx7tI8aDdT6OH9sZTjYnbiOep8QFyT5A\njqJDaAjz92HF34GjSVi0r+MEj9dMwSGrvUOOQLmqYSLQXHrAQVhl7CxGPLL6eF4F\nvnqzs+wjnXdQLmVR221BUvmEb764PQgVJI8G0b1A/LimSQmU4A4Q6XE3k4Jf5a0N\ncU9Vv2kfjXmnBnyKXwlvSlbQNxYzQdipsukAWuc06IDpWLLhCDCeRFDrz4FSadgI\nRctgtbTD/WESEVDoESzBZmA/qGUwx7l4uYRikTR9AQKBgQDg+Ik+5ZXN7CMtvMjD\n49PdekWEAyxVXoQw9XhXw5mNQW8OR/jIJn7Uu18aGcS61XkB47Bae4xqk8ptbwzO\nZ153WAOm9TuXT1s7QIbXHIpdBzSie63paZlpkFrsyQiVYbvr+hOwN4sdo/IUOyur\nR3rHCLwOgNs/+W0YDey173tL/wKBgQDHQmEvjx3p62QFdeFslLr3WomBdu+nS0Hh\nyDkEE2RRs2eZ0liNpNbfO4wLx9gWvyCGK83pUJDtDhUWUKbrmVWUeR81wBHTTg5y\nWHjTpLu9TKLU8ngvJIsRPA+Foa7t67n15tgSiqtCrA4nWFBTBks1NIc/UcpHIxhu\n5H9lv6g4wQKBgA+TBSVWjYVg+Jp8/EUba5pkkZVvBs2uKmadR8SDpQizY/XQI7fv\nek5N3mqXKBhrGOJ5mcbZ0MG8E4J58qADZfXLIQ2Y4pQ6CS3T7MHNlwKTsiAhgcur\n5NP7C2BjFnYI+xJ+EIjdf4MAy4x9ACvuWeCXiTVT1FnccaH9rMp3lsiPAoGALMau\n3igT+cfKnyuBL4wwg3sV4UDf08Emmd0Lau4MogtloXxSJ+o92sYfz1nmJh5m6Z+Y\nUvCm0I5UkMIo8FJxl76sE8EIgGpO9sUIyc5/3acGBEJEXZuhoIrVlhriG1bYX/iy\n31/H4mCVgaPn0PBeICOgrMrtYJTzXZ/9PNkXrUECgYEAxEeIMNomuiPNxewsCfIl\niJVyvd6iEb93buYYErR23GtW72XDqhLqFfYK4ux/YBasDa9VJPnCzECofcPB7zp4\nsGoynCk5McavL0qeWEnJtnoKNzYZMRxAISxF1nWAK+52gq+K63/zDrK82MeuPfKU\nHm31yS3zp71JqY5adB/x82w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "medical-vision-api@engaged-patrol-451012-f4.iam.gserviceaccount.com",
+  "client_id": "109320654477502249973",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/medical-vision-api%40engaged-patrol-451012-f4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
